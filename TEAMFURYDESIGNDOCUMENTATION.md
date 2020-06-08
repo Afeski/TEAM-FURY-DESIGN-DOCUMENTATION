@@ -1,15 +1,15 @@
 # TEAM-FURY-DESIGN-DOCUMENTATION #
 
-   **INTRODUCTION**
+   **INTRODUCTION
 
 
-**PURPOSE**
+**PURPOSE
 
 
- The purpose of this document is to describe the requierd design operations required by Team Fury
+ - The purpose of this document is to describe the requierd design operations required by Team Fury
  
  
-**SOFTWARE USED**
+**SOFTWARE USED
 
 *FIGMA*
 
