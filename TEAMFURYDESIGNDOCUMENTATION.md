@@ -1,20 +1,20 @@
 # TEAM-FURY-DESIGN-DOCUMENTATION #
 
-   **INTRODUCTION
+   **INTRODUCTION**
 
 
-**PURPOSE
+**PURPOSE**
 
 
  - The purpose of this document is to describe the requierd design operations required by Team Fury
  
  
-**SOFTWARE USED**
+**SOFTWARES USED**
 
 - FIGMA
 
 
--ADOBE AFTER EFFECTS
+- ADOBE AFTER EFFECTS
 
 **DESIGN OVERVIEW**
 
