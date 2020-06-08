@@ -93,41 +93,60 @@ https://www.figma.com/file/b0EyVgayFJni8m1w4hgyah/hotel-website?node-id=0%3A1 @D
  8. Ben
  9. BigJoe
  
- - General video creation overseer - @K.A
+ **General video creation overseer** - @K.A
  
-- Video 1
+ **Video 1**
 - How to create an intro video.
+
 Intro video maker - @IsaacOlagoke 
+
 Content creator - @IsaacOlagoke , @Afeski
+
 Graphics designer - @K.A
 
 
-- Video 2
+**Video 2**
 - How to create a layout on Figma
+
 Intro video maker - @Deji17
+
 Content creator - @Bowo
+
 Graphics designer - @Ojoniyi
 
 
-- Video 3
+
+ **Video 3**
 - How to host a PHP website on digital ocean
+
 Intro video maker - @AyodejiL
+
 Content creator - @Ekpono
+
 Graphics designer - @olatohdimeji
 
 
-- Video 4
+
+ **Video 4**
 - How to code in NodeJS
+
 Intro video maker - @Dhabs
+
 Content creator - @Ndonna @Lihemen
+
 Graphics designer - @Adetayo
 
 
-- Video 5
+
+ **Video 5**
 - Understanding the Grid system in UI/design
+
 Intro video maker - @Precious.Omovoiye @DavidOyewole
+
 Content creator - @Uchechukwu @Moronke
+
 Graphics designer - @Iykee
+
 
 
 
