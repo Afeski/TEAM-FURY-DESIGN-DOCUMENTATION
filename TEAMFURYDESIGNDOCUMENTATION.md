@@ -6,7 +6,7 @@
 **PURPOSE**
 
 
- - The purpose of this document is to describe the requierd design operations required by Team Fury
+ - The purpose of this document is to describe the design operations required by the Team Fury Design group and the manner in whuch they were fulfilled.
  
  
 **SOFTWARES USED**
@@ -21,7 +21,7 @@
 **GROUP DESIGN REQUIREMENTS**
 
 
-- Five YouTube guide videos. Go to digital ocean or any other company that writes a lot of technical content. Your designers will design a lovely intro for the video, and you will build a great, video version of the guide. For example, you can do 'How to install Apache on Ubuntu'. It has a great (animated) intro, and looks really good. Someone makes a great screenshare explaining everything (in a clear accent). The video will be given to our designers. If they like the design, they will upload to HNG channel. The number of views you get before Saturday midnight counts as a download.
+- Five YouTube guide videos. Go to digital ocean or any other company that writes a lot of technical content. Your designers will design a lovely intro for the video, and you will build a great, video version of the guide. For example, you can do 'How to install Apache on Ubuntu'. It has a great (animated) intro, and looks really good. Someone makes a great screenshare explaining everything (in a clear accent). The video will be given to our designers. If they like the design, they will upload to HNG channel. The number of views you get before Saturday midnight counts as a download. - MARK
 
 
 
@@ -78,10 +78,12 @@ https://www.figma.com/file/b0EyVgayFJni8m1w4hgyah/hotel-website?node-id=0%3A1 @D
 - Design tasks commenced when @Iykee, @Bigjoe, @Deji17, @Dmaskedone and @Dhabs had their designs chosen for implementation, which was     then carried out by the groups frontend team.
 
  
-**IMPLEMENTATION AND DELEGATION
+**DELEGATION ARRANGEMENTS
+
+**The head of the design team is @GCremez
 
 
-- Another sect of designers proceeded with implementing the team's mobile design which was to be utilized by the mobile devs team, The     design group agreed to build and iterate an app that reminds you to wash your hands. The following designers where involved in the app   building; List of the people working here. 
+- Another sect of designers proceeded with implementing the team's mobile design which was to be utilized by the mobile devs team, The     design group agreed to build and iterate an app that reminds you to wash your hands. The following designers where involved in the app   building; 
 
  1. GCremez
  2. kadpeta
@@ -93,6 +95,8 @@ https://www.figma.com/file/b0EyVgayFJni8m1w4hgyah/hotel-website?node-id=0%3A1 @D
  8. Ben
  9. BigJoe
  
+ 
+ 
  **General video creation overseer** - @K.A
  
  **Video 1**
@@ -100,7 +104,7 @@ https://www.figma.com/file/b0EyVgayFJni8m1w4hgyah/hotel-website?node-id=0%3A1 @D
 
 Intro video maker - @IsaacOlagoke 
 
-Content creator - @IsaacOlagoke , @Afeski
+Content creator - @IsaacOlagoke
 
 Graphics designer - @K.A
 
@@ -110,7 +114,7 @@ Graphics designer - @K.A
 
 Intro video maker - @Deji17
 
-Content creator - @Bowo
+Content creator - @Bowo , @Afeski
 
 Graphics designer - @Ojoniyi
 
