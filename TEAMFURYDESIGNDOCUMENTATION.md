@@ -68,7 +68,70 @@ https://www.figma.com/file/b0EyVgayFJni8m1w4hgyah/hotel-website?node-id=0%3A1 @D
 
 - Birthday Reminder
 
-- drink water reminder
+- Drink water reminder
 
-- reading reminder
+- Reading reminder
+
+
+**IMPLEMENTATION AND DELEGATION
+
+- Design tasks commenced when @Iykee, @Bigjoe, @Deji17, @Dmaskedone and @Dhabs had their designs chosen for implementation, which was     then carried out by the groups frontend team.
+
+ 
+**IMPLEMENTATION AND DELEGATION
+
+
+- Another sect of designers proceeded with implementing the team's mobile design which was to be utilized by the mobile devs team, The     design group agreed to build and iterate an app that reminds you to wash your hands. The following designers where involved in the app   building; List of the people working here. 
+
+ 1. GCremez
+ 2. kadpeta
+ 3. techqueen
+ 4. Psalmspire
+ 5. Kopta
+ 6. Odinaka
+ 7. Timzz
+ 8. Ben
+ 9. BigJoe
+ 
+ - General video creation overseer - @K.A
+ 
+- Video 1
+- How to create an intro video.
+Intro video maker - @IsaacOlagoke 
+Content creator - @IsaacOlagoke , @Afeski
+Graphics designer - @K.A
+
+
+- Video 2
+- How to create a layout on Figma
+Intro video maker - @Deji17
+Content creator - @Bowo
+Graphics designer - @Ojoniyi
+
+
+- Video 3
+- How to host a PHP website on digital ocean
+Intro video maker - @AyodejiL
+Content creator - @Ekpono
+Graphics designer - @olatohdimeji
+
+
+- Video 4
+- How to code in NodeJS
+Intro video maker - @Dhabs
+Content creator - @Ndonna @Lihemen
+Graphics designer - @Adetayo
+
+
+- Video 5
+- Understanding the Grid system in UI/design
+Intro video maker - @Precious.Omovoiye @DavidOyewole
+Content creator - @Uchechukwu @Moronke
+Graphics designer - @Iykee
+
+
+
+
+
+
 
