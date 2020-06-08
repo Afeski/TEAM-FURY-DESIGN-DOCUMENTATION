@@ -3,7 +3,7 @@
    **INTRODUCTION**
 
 
-*PURPOSE
+**PURPOSE**
 
 
  The purpose of this document is to describe the requierd design operations required by Team Fury
@@ -11,10 +11,10 @@
  
 **SOFTWARE USED**
 
-*FIGMA
+*FIGMA*
 
 
-*ADOBE AFTER EFFECTS
+ADOBE AFTER EFFECTS
 
 **DESIGN OVERVIEW**
 
