@@ -29,7 +29,7 @@
 
 
 
-- Hand Over 5 Hotel Designs to be created by the Frontend team*, the following were selected;
+- Hand Over 5 Hotel Designs to be created by the Frontend team, the following were selected;
 
 
 
@@ -78,9 +78,10 @@ https://www.figma.com/file/b0EyVgayFJni8m1w4hgyah/hotel-website?node-id=0%3A1 @D
 - Design tasks commenced when @Iykee, @Bigjoe, @Deji17, @Dmaskedone and @Dhabs had their designs chosen for implementation, which was     then carried out by the groups frontend team.
 
  
-**DELEGATION ARRANGEMENTS
+**DELEGATION ARRANGEMENTS**
 
-**The head of the design team is @GCremez
+
+**The head of the design team is @GCremez**
 
 
 - Another sect of designers proceeded with implementing the team's mobile design which was to be utilized by the mobile devs team, The     design group agreed to build and iterate an app that reminds you to wash your hands. The following designers where involved in the app   building; 
@@ -94,6 +95,7 @@ https://www.figma.com/file/b0EyVgayFJni8m1w4hgyah/hotel-website?node-id=0%3A1 @D
  7. Timzz
  8. Ben
  9. BigJoe
+10. Ammie
  
  
  
