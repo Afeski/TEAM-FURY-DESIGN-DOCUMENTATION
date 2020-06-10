@@ -6,13 +6,12 @@
 **PURPOSE**
 
 
- - The purpose of this document is to describe the design operations required by the Team Fury Design group and the manner in whuch they were fulfilled.
+ - The purpose of this document is to describe the design operations required by the Team Fury Design group and the manner in which they were fulfilled.
  
  
 **SOFTWARES USED**
 
 - FIGMA
-
 
 - ADOBE AFTER EFFECTS
 
@@ -47,14 +46,15 @@ https://www.figma.com/file/b0EyVgayFJni8m1w4hgyah/hotel-website?node-id=0%3A1 @D
 
 **Videos Ideas:**
 
-- How to create a stunning layout on figma.
+- How to host your PHP website on DigitalOcean [https://youtu.be/D464yS6g5eA]
 
-- How to host a PHP website.
+- Design and Prototyping with Figma 2020 [https://youtu.be/9OwRJEzIUuA]
 
-- Write and read your first program in Nodejs
-- How to create an into video in adobe after effect.
+- Getting Started with NodeJS [https://youtu.be/NPEv6rN6d-s]
 
-- Understand the grid system in ui design.
+- Understaning the Grid System in UI (with Figma) [https://www.youtube.com/watch?v=hmGSqx4gnXo]
+
+- How to create Intro Video using Adobe Effects [https://youtu.be/MpS5oXgsBa4]
 
 
 **Mobile App Ideas**
@@ -84,7 +84,7 @@ https://www.figma.com/file/b0EyVgayFJni8m1w4hgyah/hotel-website?node-id=0%3A1 @D
 **The head of the design team is @GCremez**
 
 
-- Another sect of designers proceeded with implementing the team's mobile design which was to be utilized by the mobile devs team, The     design group agreed to build and iterate an app that reminds you to wash your hands. The following designers where involved in the app   building; 
+- Another set of designers proceeded with implementing the team's mobile design which was to be utilized by the mobile devs team, The     design group agreed to build and iterate an app that reminds you to wash your hands. The following designers where involved in the app   building; 
 
  1. GCremez
  2. kadpeta
@@ -96,6 +96,7 @@ https://www.figma.com/file/b0EyVgayFJni8m1w4hgyah/hotel-website?node-id=0%3A1 @D
  8. Ben
  9. BigJoe
 10. Ammie
+11. Iykee
  
  
  
@@ -123,7 +124,7 @@ Graphics designer - @Ojoniyi
 
 
  **Video 3**
-- How to host a PHP website on digital ocean
+- How to host a PHP website on Digital ocean
 
 Intro video maker - @AyodejiL
 
@@ -152,11 +153,3 @@ Intro video maker - @Precious.Omovoiye @DavidOyewole
 Content creator - @Uchechukwu @Moronke
 
 Graphics designer - @Iykee
-
-
-
-
-
-
-
-
